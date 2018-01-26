@@ -1,0 +1,3 @@
+E:\study
+ghostdriver.log python351.chm
+result2
